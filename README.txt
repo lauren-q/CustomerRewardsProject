@@ -14,6 +14,8 @@ Main application:
         http://52.53.225.63:8009/rewards/1
         http://52.53.225.63:8009/rewards/2
         http://52.53.225.63:8009/rewards/3
+    - Designed UI for customer Rewards Calculator    
+        http://52.53.225.63:8009/
     - use Lombok to simplify develop process
 
 Test:
